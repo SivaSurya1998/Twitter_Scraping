@@ -1,1 +1,1 @@
-pip3 install git+https://github.com/JustAnotherArchivist/snscrape.git
+pip3 install snscrape
