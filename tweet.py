@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-pip3 install snscrape
+#pip3 install snscrape
 #Importing required libraries
 import streamlit as st
 import pandas as pd
