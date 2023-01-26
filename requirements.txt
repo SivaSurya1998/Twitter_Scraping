@@ -1,1 +1,1 @@
-py -r pip install snscrape
+pip install snscrape
