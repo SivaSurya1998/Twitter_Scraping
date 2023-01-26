@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-pip install git+https://github.com/JustAnotherArchivist/snscrape.git
+pip3 install git+https://github.com/JustAnotherArchivist/snscrape.git
 #Importing required libraries
 import streamlit as st
 import pandas as pd
