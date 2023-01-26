@@ -1,1 +1,2 @@
-pip3 install snscrape
+python -m pip install --upgrade pip
+pip install snscrape
